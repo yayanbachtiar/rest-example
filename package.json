@@ -34,7 +34,7 @@
     "amqp-connection-manager": "2.3.1",
     "amqplib": "0.5.3",
     "apollo-server-express": "2.14.2",
-    "bcrypt": "3.0.6",
+    "bcrypt": "5.0.0",
     "chalk": "2.4.2",
     "cloudinary": "1.14.0",
     "compression": "1.7.4",
